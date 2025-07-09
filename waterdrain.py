@@ -34,7 +34,7 @@ with tab1:
         cctv_url = ""
 
     #model_path = st.text_input("Model Path (.keras)", value=r"C:\\Users\\Parvathi Nair\\Desktop\\itc\\project\\models\\model.keras")
-    model_path = r"C:\\Users\\Parvathi Nair\\Desktop\\itc\\project\\models\\model1.keras"
+    model_path = r"models\\model1.keras"
     
     # Settings
     Y1, Y2 = 0, 1080
