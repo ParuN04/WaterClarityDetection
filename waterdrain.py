@@ -33,7 +33,6 @@ with tab1:
         #cctv_url = st.text_input("Enter CCTV Stream URL or IP", value="")
         cctv_url = ""
 
-    #model_path = st.text_input("Model Path (.keras)", value=r"C:\\Users\\Parvathi Nair\\Desktop\\itc\\project\\models\\model.keras")
     model_path = r"models\\model1.keras"
     
     # Settings
